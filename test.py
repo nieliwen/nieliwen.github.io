@@ -1,4 +1,1 @@
-print("test")
-update
-master
-gz
+new
